@@ -1,0 +1,11 @@
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\bin\Debug\netcoreapp2.1\ChatARendre_Client.deps.json
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\bin\Debug\netcoreapp2.1\ChatARendre_Client.runtimeconfig.json
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\bin\Debug\netcoreapp2.1\ChatARendre_Client.runtimeconfig.dev.json
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\bin\Debug\netcoreapp2.1\ChatARendre_Client.dll
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\bin\Debug\netcoreapp2.1\ChatARendre_Client.pdb
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\obj\Debug\netcoreapp2.1\ChatARendre_Client.csprojAssemblyReference.cache
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\obj\Debug\netcoreapp2.1\ChatARendre_Client.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\obj\Debug\netcoreapp2.1\ChatARendre_Client.AssemblyInfoInputs.cache
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\obj\Debug\netcoreapp2.1\ChatARendre_Client.AssemblyInfo.cs
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\obj\Debug\netcoreapp2.1\ChatARendre_Client.dll
+C:\Users\stagiaire\source\repos\ChatARendre\ChatARendre_Client\obj\Debug\netcoreapp2.1\ChatARendre_Client.pdb
